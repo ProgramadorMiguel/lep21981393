@@ -1,0 +1,690 @@
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos
+$ pppppp
+$ ppppp
+$ pppp
+$ ppp
+$ pp
+$ p
+$
+$ pwd
+/c/Users/mprie/OneDrive/Documentos
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos
+$
+$ cd
+$ cd a
+$ cd Asignaturas\ UEM/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM
+$
+$ cd
+$ cd 3\ Curso/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso
+$
+$ cd
+$ cd LPE
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ pw
+$ pwd
+/c/Users/mprie/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ ^C
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ ^C
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ ls
+'Hands on 01.R'   POD2.R  'survey lung cancer.csv'
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ ls
+$ pwd
+$ ls
+'Hands on 01.R'   POD2.R  'survey lung cancer.csv'
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos
+$
+$ pwd
+/c/Users/mprie/OneDrive/Documentos
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos
+$
+$ cd
+$ cd l
+$ cd
+$ cd asi
+$ cd Asignaturas\ UEM/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM
+$
+$ cd
+$ cd 3\ Curso/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso
+$
+$ cd
+$ cd lp
+$ cd LPE/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ ls
+'Hands on 01.R'   LPE21981393/   POD2.R  'survey lung cancer.csv'
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ git
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+$
+$ git
+$ git init
+Initialized empty Git repository in C:/Users/mprie/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE/.
+git/
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ git init
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        LPE21981393/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ git
+$ git i
+$ git
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+mprie@ACER-MIGUEL MINGW64 
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ git add
+$ git add .
+error: 'LPE21981393/' does not have a commit checked out
+fatal: adding files failed
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ git
+$ gi
+$ g
+$
+$ pwd
+/c/Users/mprie/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ mkdir
+$ mkdir LPE222
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/LPE (master)
+$
+$ cd ..
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso
+$
+$ L
+$
+$ cd lpe
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+$
+$ git statu
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+$
+$ git
+$ git remote
+$ git remote origin
+$ git remote origin ^V
+$ git remote origin
+$ git remote origin ^M
+$ git remote origin
+$ git remote origin https://github.com/ProgramadorMiguel/LPE21981393.git
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>]
+<name> <url>
+   or: git remote rename [--[no-]progress] <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+
+mprie@ACER-MIGUEL MINGW64 mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+$
+$ git
+$ git remote
+$ git remote add
+$ git remote add origin
+$ git remote add origin https://github.com/ProgramadorMiguel/LPE21981393.git
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+$
+$ ls
+'Hands on 01.R'   LPE21981393.Rproj   POD2.R  'survey lung cancer.csv'
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+$
+$ pwd
+/c/Users/mprie/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos/Asignaturas UEM/3 Curso/lpe (master)
+
+mprie@ACER-MIGUEL MINGW64 ~/OneDrive/Documentos (master)
+$
+$ cd
+$ cd ~~
+$ cd ~
+
+mprie@ACER-MIGUEL MINGW64 ~
+$
+$ pwd
+/c/Users/mprie
+
+mprie@ACER-MIGUEL MINGW64 ~
+$
+$ mkdir
+$ mkdir lep21981393
+
+mprie@ACER-MIGUEL MINGW64 ~
+$
+$ cd
+$ cd lep21981393/
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ setwd("D:/DataScience")
+$ setwd("D:/DataScience"
+$ setwd("D:/DataScience
+$ setwd("D:/DataScienc
+$ setwd("D:/DataScie
+$ setwd("D:/DataSci
+$ setwd("D:/DataSc
+$ setwd("D:/DataS
+$ setwd("D:/Dat
+$ setwd("D:/Da
+$ setwd("D:/D
+$ setwd("D:/
+$ setwd("D:
+$ setwd("D
+$ setwd("
+$ setwd(
+$ setwd(".")
+bash: syntax error near unexpected token `"."'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ pwd
+/c/Users/mprie/lep21981393
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ pwd
+$ setwd(".")^C
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ pwd
+$ setwd(".")
+$ pwd
+$ setwd(".")
+$ setwd("")
+$ setwd("setwd("D:/DataScience")")
+$ setwd("setwd("D:/DataScience"")
+$ setwd("setwd("D:/DataScience")
+$ setwd("setwd("D:/DataScienc")
+$ setwd("setwd("D:/DataScien")
+$ setwd("setwd("D:/DataScie")
+$ setwd("setwd("D:/DataSci")
+$ setwd("setwd("D:/DataSc")
+$ setwd("setwd("D:/DataS")
+$ setwd("setwd("D:/Dat")
+$ setwd("setwd("D:/")
+$ setwd("setwd("")
+$ setwd("setwd(")
+$ setwd("setwd")
+$ setwd("setw")
+$ setwd("set")
+$ setwd("se")
+$ setwd("s")
+$ setwd("")
+$ setwd(")
+$ setwd("")
+$ setwd("/")
+$ setwd("/c")
+$ setwd("/c/")
+$ setwd("/c/U")
+$ setwd("/c/Us")
+$ setwd("/c/Use")
+$ setwd("/c/User")
+$ setwd("/c/Users")
+$ setwd("/c/Users/")
+$ setwd("/c/Users/m")
+$ setwd("/c/Users/mp")
+$ setwd("/c/Users/mpr")
+$ setwd("/c/Users/mpri")
+$ setwd("/c/Users/mprie")
+$ setwd("/c/Users/mpriet")
+$ setwd("/c/Users/mprie")
+$ setwd("/c/Users/mprie/")
+$ setwd("/c/Users/mprie/l")
+$ setwd("/c/Users/mprie/le")
+$ setwd("/c/Users/mprie/lep")
+$ setwd("/c/Users/mprie/lep2")
+$ setwd("/c/Users/mprie/lep21")
+$ setwd("/c/Users/mprie/lep219")
+$ setwd("/c/Users/mprie/lep2198")
+$ setwd("/c/Users/mprie/lep21981")
+$ setwd("/c/Users/mprie/lep219813")
+$ setwd("/c/Users/mprie/lep2198139")
+$ setwd("/c/Users/mprie/lep21981393")
+bash: syntax error near unexpected token `"/c/Users/mprie/lep21981393"'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ setwd("/c/Users/mprie/lep21981393")
+$ setwd("c/Users/mprie/lep21981393")
+bash: syntax error near unexpected token `"c/Users/mprie/lep21981393"'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ kaggle
+$ kaggle datasets
+$ kaggle datasets list
+$ kaggle datasets list -s
+$ kaggle datasets list -s ""
+$ kaggle datasets list -s "E"
+$ kaggle datasets list -s "Es"
+$ kaggle datasets list -s "Esp"
+$ kaggle datasets list -s "Espa"
+$ kaggle datasets list -s "España"
+ref                                                             title
+               size  lastUpdated          downloadCount  voteCount  usabilityRating
+--------------------------------------------------------------  ------------------------------------
+------------  -----  -------------------  -------------  ---------  ---------------
+ricardomoya/tweets-poltica-espaa                                Tweets Política España
+               17MB  2022-04-29 12:58:07             86          5  1.0
+fcojavt/municipios-spain                                        Municipios de España
+              224KB  2020-05-18 15:35:15            119          6  0.7058824
+nicholasjhana/energy-consumption-generation-prices-and-weather  Hourly energy demand generation and
+weather         4MB  2019-10-10 14:02:37          12777        276  1.0
+datashyends/programas10n                                        Programas Elecciones España 10-N 201
+9             228KB  2019-11-10 17:11:33             24          1  1.0
+datamarket/movilidad-de-personas                                Movilidad de personas
+               32MB  2021-02-05 08:49:55            109          5  1.0
+mikelmoli/municipal-postal-codes-spain-cdigos-postales          Municipal Postal Codes of Spain
+              394KB  2022-02-26 11:40:14             37         10  0.7647059
+datamarket/noticias-economicas                                  Noticias Económicas
+               16MB  2021-02-09 18:42:15             55          7  0.9411765
+datamarket/ofertas-de-mvil-fibra-y-tv                           Ofertas de móvil, fibra y TV
+               12KB  2021-02-11 17:46:13             39          5  0.9411765
+xaxipirulazo/red-electrica-espaola-consumo-y-precios            Red Electrica De España
+              308KB  2020-03-26 14:40:32             47          1  0.4117647
+sszbigdata/pib-y-paro-en-espaa                                  PIB y paro en España
+               852B  2018-09-14 12:22:16            100          1  0.75
+datamarket/productos-de-supermercados                           Productos de supermercados
+               19MB  2021-02-17 08:36:55            463          8  0.9411765
+datamarket/ofertas-de-trabajo                                   Ofertas de empleo
+              189KB  2021-05-19 16:56:11             97          5  0.9411765
+datamarket/viajes-en-tren                                       Viajes en tren
+               34MB  2021-02-09 18:57:10            161          5  0.9411765
+jersey33/datos-elecciones-generales-19962016                    Datos elecciones generales 1996-2016
+ España         9KB  2018-11-16 13:23:48            177          5  0.23529412
+datamarket/catastro                                             Catastro
+                3MB  2021-09-01 07:24:06             28          4  0.9411765
+jessemostipak/tour-de-france-winners                            Tour de France Winners
+                2MB  2020-04-07 15:13:22            420         10  1.0
+datamarket/contratacion-publica                                 Contratación Pública
+                2MB  2021-09-03 09:13:42             23          4  0.9411765
+datamarket/boletines-oficiales                                  Boletines Oficiales
+                2MB  2021-07-02 08:48:38             14          3  0.9411765
+jaimevalero/covid19-madrid                                      Covid19 Madrid
+               13KB  2022-06-21 17:08:52            271         19  0.8235294
+manualrg/spanish-electricity-market-demand-gen-price            Spanish Electricity Market: Demand,
+Gen. & Price  285KB  2019-03-12 18:12:53           2066         37  0.7647059
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ datasets
+$ datasets download
+$ Kdatasets download
+$ KAdatasets download
+$ KAGdatasets download
+$ KAGGdatasets download
+$ KAGGLdatasets download
+$ KAGGLEdatasets download
+$ KAGGLE datasets download
+$ KAGGLEdatasets download
+$ KAGGLdatasets download
+$ KAGGdatasets download
+$ KAGdatasets download
+$ KAdatasets download
+$ Kdatasets download
+$ datasets download
+$ kdatasets download
+$ kadatasets download
+$ kagdatasets download
+$ kaggdatasets download
+$ kaggldatasets download
+$ kaggledatasets download
+$ kaggle datasets download
+$ kaggle datasets download -d
+$ kaggle datasets download -d """
+$ kaggle datasets download -d ""
+$ kaggle datasets download -d "d"
+$ kaggle datasets download -d "da"
+$ kaggle datasets download -d "dat"
+$ kaggle datasets download -d "data"
+$ kaggle datasets download -d "datam"
+$ kaggle datasets download -d "datama"
+$ kaggle datasets download -d "datamak"
+$ kaggle datasets download -d "datama"
+$ kaggle datasets download -d "datamar"
+$ kaggle datasets download -d "datamark"
+$ kaggle datasets download -d "datamarke"
+$ kaggle datasets download -d "datamarket"
+$ kaggle datasets download -d "datamarket/"
+$ kaggle datasets download -d "datamarket/c"
+$ kaggle datasets download -d "datamarket/ca"
+$ kaggle datasets download -d "datamarket/cat"
+$ kaggle datasets download -d "datamarket/cata"
+$ kaggle datasets download -d "datamarket/catas"
+$ kaggle datasets download -d "datamarket/catast"
+$ kaggle datasets download -d "datamarket/catastr"
+$ kaggle datasets download -d "datamarket/catastro"
+Downloading catastro.zip to C:\Users\mprie\lep21981393
+  0%|                                                                  | 0.00/3.41M [00:00<?, ?B/s]
+ 29%|████████████████▋                                        | 1.00M/3.41M [00:00<00:00, 5.27MB/s]
+ 59%|█████████████████████████████████▍                       | 2.00M/3.41M [00:00<00:00, 4.43MB/s]
+ 88%|██████████████████████████████████████████████████       | 3.00M/3.41M [00:00<00:00, 5.11MB/s]
+100%|█████████████████████████████████████████████████████████| 3.41M/3.41M [00:00<00:00, 4.80MB/s]
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393
+$
+$ git
+$ git init
+Initialized empty Git repository in C:/Users/mprie/lep21981393/.git/
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (master)
+$
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (master)
+$ git branch -M main
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ProgramadorMiguel/lep21981393.git'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ kaggl
+$ kagg
+$ kag
+$ ka
+$ k
+$
+$ git push -u origin main
+$ git branch -M main
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+$ git init
+$ kaggle datasets download -d "datamarket/catastro"
+$ kaggle datasets list -s "España"
+$ kaggle datasets download -d "datamarket/catastro"
+$ kaggle datasets download -d "datamarket/catastro
+$ kaggle datasets list -s "España"
+$ kaggle datasets list -s "Españ"
+$ kaggle datasets list -s "Espa"
+$ kaggle datasets list -s "Esp"
+$ kaggle datasets list -s "Es"
+$ kaggle datasets list -s "E"
+$ kaggle datasets list -s ""
+$ kaggle datasets list -s "C"
+$ kaggle datasets list -s "Co"
+$ kaggle datasets list -s "Coc"
+$ kaggle datasets list -s "Coch"
+$ kaggle datasets list -s "Coche"
+ref                                           title                    size  lastUpdated          do
+wnloadCount  voteCount  usabilityRating
+--------------------------------------------  -----------------------  ----  -------------------  --
+-----------  ---------  ---------------
+datamarket/venta-de-coches                    Coches de segunda mano    4MB  2021-02-10 16:32:08
+        421         12  0.9411765
+javierduranfernandez/audios-entornos-sonoros  Audios Entornos Sonoros  51MB  2020-11-16 19:37:10
+          8          1  0.125
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ kaggle datasets list -s "Coche"
+$ git push -u origin main
+$ git branch -M main
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+$ git init
+$ kaggle datasets download -d "datamarket/catastro
+$ kaggle datasets download -d "datamarket/catastr
+$ kaggle datasets download -d "datamarket/catast
+$ kaggle datasets download -d "datamarket/catas
+$ kaggle datasets download -d "datamark
+$ kaggle datasets download -d "datamar
+$ kaggle datasets download -d "datama
+$ kaggle datasets download -d "datam
+$ kaggle datasets download -d "data
+$ kaggle datasets download -d "dat
+$ kaggle datasets download -d "da
+$ kaggle datasets download -d "d
+$ kaggle datasets download -d "Coches
+$ kaggle datasets download -d "Coches d
+$ kaggle datasets download -d "Coches
+$ kaggle datasets download -d "Coche
+$ kaggle datasets download -d "Coch
+$ kaggle datasets download -d "Coc
+$ kaggle datasets download -d "Co
+$ kaggle datasets download -d "C
+$ kaggle datasets download -d "datamarket/venta-de-coches"
+Downloading venta-de-coches.zip to C:\Users\mprie\lep21981393
+  0%|                                                                  | 0.00/3.88M [00:00<?, ?B/s]
+ 26%|██████████████▋                                          | 1.00M/3.88M [00:00<00:00, 6.68MB/s]
+ 52%|█████████████████████████████▍                           | 2.00M/3.88M [00:00<00:00, 5.78MB/s]
+ 77%|████████████████████████████████████████████             | 3.00M/3.88M [00:00<00:00, 5.90MB/s]
+100%|█████████████████████████████████████████████████████████| 3.88M/3.88M [00:00<00:00, 5.95MB/s]
+100%|█████████████████████████████████████████████████████████| 3.88M/3.88M [00:00<00:00, 5.96MB/s]
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+error: remote origin already exists.
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git branch -M main
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ProgramadorMiguel/lep21981393.git'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        coches-de-segunda-mano-sample.csv
+        venta-de-coches.zip
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git add
+$ git add .
+warning: in the working copy of 'coches-de-segunda-mano-sample.csv', LF will be replaced by CRLF the
+ next time Git touches it
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+error: remote origin already exists.
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git branch -M main
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ProgramadorMiguel/lep21981393.git'
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git commit
+$ git commit -m
+$ git commit -m ""
+$ git commit -m "e"
+$ git commit -m "ex"
+$ git commit -m "exa"
+$ git commit -m "exam"
+$ git commit -m "examen"
+[main (root-commit) f4c0d81] examen
+ 2 files changed, 50001 insertions(+)
+ create mode 100644 coches-de-segunda-mano-sample.csv
+ create mode 100644 venta-de-coches.zip
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git push
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git branch
+* main
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git remote add origin https://github.com/ProgramadorMiguel/lep21981393.git
+error: remote origin already exists.
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git branch -M main
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$ git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  50% (2/4)Compressing objects: 100% (4/4), done.
+Writing objects:  50% (2/4)Writing objects:  50% (2/4), 1000.00 KiB | 1.94 MiB/sWriting objects:  75% (3/4), 3.61 MiB | 3.60 MiB/sWriting objects:  75% (3/4), 5.26 MiB | 3.48 MiB/sWriting objects: 100% (4/4), 5.26 MiB | 3.48 MiB/s
+Writing objects: 100% (4/4), 7.71 MiB | 3.15 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/ProgramadorMiguel/lep21981393.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ pwd
+/c/Users/mprie/lep21981393
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ GIT
+$ GI
+$ G
+$
+$ git sggitgitijkgadiu4theui
+$ git sggitgitijkgadiu4theu
+$ git sggitgitijkgadiu4the
+$ git sggitgitijkgadiu4th
+$ git sggitgitijkgadiu4t
+$ git sggitgitijkgadiu4
+$ git sggitgitijkgadiu
+$ git sggitgitijkgadi
+$ git sggitgitijkgad
+$ git sggitgitijkga
+$ git sggitgitijkg
+$ git sggitgitijk
+$ git sggitgitij
+$ git sggitgit
+$ git sggitgi
+$ git sggitg
+$ git sggit
+$ git sggi
+$ git sgg
+$ git sg
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        lep21981393.R
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
+$ git
+$ git add
+$ git add .
+
+mprie@ACER-MIGUEL MINGW64 ~/lep21981393 (main)
+$
